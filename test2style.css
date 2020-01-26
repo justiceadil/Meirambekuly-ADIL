@@ -1,0 +1,25 @@
+body {
+	background-image: url(fon4.jpg);
+	background-size: center;
+	background-repeat: no-repeat;
+    
+}
+.Repack{
+	background-image: url();
+}
+.head{
+	background-image: url(1.jpg);
+	border: 2px solid #130101;
+	border-radius: 10px;
+	opacity: 0.7;
+}
+.button{
+	background-image: url(1.jpg);
+	border-radius: 100px;
+	box-shadow: 7px 7px 7px #333131;
+}
+button: hover{
+	border: 2px solid #C911B6;
+	color: #C911B6;
+
+}
